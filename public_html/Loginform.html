@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Login Form</title>
+        <link type="text/css" rel="stylesheet" href="cs/bootstrap.min.css">
+        <link type="text/css" rel="stylesheet" href="cs/w3.css">
+        <link type="text/css" rel="stylesheet" href="cs/w3-colors-win8.css">
+        <link type="text/css" rel="stylesheet" href="cs/linestyle.css">
+        <style>
+            .passform{margin-top: 1rem; margin-left: 20rem;}
+        </style>
+    </head>
+    <body >
+         <span class="w3-left w3-text-blue w3-jumbo w3-bold w3-badge">BCN</span>
+         <div class="w3-center w3-red w3-container"><h4 class="w3-jumbo w3-bold w3-text-blue">BINARY COMPUTERS NIGERIA LIMITED <span>&#174;</span></h4></div>
+        <hr class="style-five">
+        <div class="w3-container w3-row passform  w3-round-large w3-white w3-half">
+                <p class="w3-center w3-red w3-round-large">Type in your details to login.</p>
+                <div class="w3-half w3-container w3-border-right">
+                <form class="w3-animate-zoom">
+                    <label class="w3-text-blue">Name</label>
+                    <input type="text" name="name" class="w3-input" placeholder="Entery first or last name">
+                    <label class="w3-text-blue">ID</label>
+                    <input type="text" name="id" class="w3-input" placeholder="Student identification number">
+                    <label class="w3-text-blue">Hierarchy</label>
+                    <select class="w3-select">
+                        <!--<option class="disabled">Select login hierarchy</option>-->
+                        <option>Admin</option>
+                        <option>Staff</option>
+                        <option>Student</option>
+                    </select>  
+                </form>
+            </div>
+            
+            <div class="w3-half w3-container w3-animate-right w3-margin-top">
+                    <button class="btn btn-outline-info w3-ripple">Login</button>
+                    <button class="btn btn-outline-info w3-ripple">Cancel</button>
+            </div>
+                      
+         </div>
+        <script src="js/jquery.min.js"></script>
+        <script src="js/popper.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+    </body>
+</html>

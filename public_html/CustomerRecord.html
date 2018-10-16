@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Customer's Record</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link type="text/css" rel="stylesheet" href="cs/bootstrap.min.css">
+        <link type="text/css" rel="stylesheet" href="cs/w3.css">
+        <link type="text/css" rel="stylesheet" href="cs/w3-colors-win8.css">
+        <link type="text/css" rel="stylesheet" href="cs/linestyle.css">
+    </head>
+    <body>
+        <div class="w3-container w3-row">
+		<div id="formcontainer"> 
+                    <div class="w3-win8-emerald w3-center">
+                        <span class="w3-left w3-text-red w3-jumbo w3-bold w3-badge">BCN</span>
+                        <h2 class="w3-jumbo">Binary Computer Nigeria Limited</h2>
+                        <h5 class="w3-win8-steel w3-padding">Customers Record</h5>
+                    </div>
+                    <hr class="style-five">
+            <div class="w3-half">
+                <form>
+                    <h3 class="w3-win8-olive">Customer Details</h3>
+                    <input class="w3-input" type="text" name="fname" placeholder="First Name">
+                    <input type="text" name="lastname" class="w3-input" placeholder="Last Name">
+                    <input class="w3-input" type="tel" name="phone" placeholder="Phone">
+                    <input id="email" type="email" name="email" class="w3-input" placeholder="Email@gmail.com"> 	
+                    <input class="w3-input" type="date" name="date">
+                        <select class="w3-select">
+                            <option>Niger</option>
+                            <option disabled="disabled" selected="selected">Load states from database</option>
+                        </select>
+                    <input id="customeraddress" type="text" name="address" class="w3-input" placeholder="Address">
+                        <label class="w3-text-blue">Gender</label>
+                        <label class="w3-text-blue" for="male">Male</label>
+                        <input type="radio" name="gender" id="male">
+                        <label class="w3-text-blue" for="female">Female</label>
+                        <input type="radio" name="gender" id="female"> 
+			                
+			<hr class="style-five">
+
+			<h2>Visiting Details</h2>
+                        
+                        <label>Reason</label> 
+                        <select class="w3-select">
+                            <option value="Yes">Yes</option>
+                            <option value="No">Repairs</option>
+                            <option value="Greetings">Greetings</option>
+			</select>
+                        
+                        <div class="repairs">
+                        <label>Electronics</label> 
+                        <select class="w3-select">
+                            <option value="laptop">laptop</option>
+                            <option value="Desktop">Desktop</option>
+                            <option value="Charger">Charger</option>
+                            <option value="others">Others</option>
+			</select>
+
+                        <label>Specify (Others)</label>
+                        <input id="specify" type="text" name="specify" class="w3-input" placeholder="Specify for other">	
+                        <input type="text" name="make" class="w3-input" placeholder="Make">
+                        <input id="model" type="text" name="model" class="w3-input" placeholder="Model">	
+                        <input type="text" name="price" class="w3-input" placeholder="Price in naira">	
+                        <label>Date Paid</label>
+                        <input id="datepaid" type="date" name="datepaid" class="w3-input">
+                        <input id="items" type="text" name="items" class="w3-input" placeholder="Items along with laptop">
+
+                        <hr class="style-one">
+
+			<label for="regular">Regular</label>
+			<input type="radio" name="method" id="regular">
+			<label for="express">Express</label>
+			<input type="radio" name="method" id="express"> 
+                        <label>Device Password</label>
+                        <input class="pass" type="password" name="pass">
+ 
+                </div>
+                        
+                        <br /><br/>
+                        
+                        <div id="customerbottom">
+				<button class="btn btn-outline-success">Update</button>
+				<button class="btn btn-outline-success">Clear</button>
+				<button class="btn btn-outline-success">Delete</button>
+			</div>
+                         <br/><br/>
+			</form>
+			
+                    </div>
+		</div>
+           
+	</div>
+        
+        <script src="js/jquery.min.js"></script>
+        <script src="js/popper.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+    </body>
+</html>

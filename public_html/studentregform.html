@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Student Registration form</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link type="text/css" rel="stylesheet" href="cs/bootstrap.min.css">
+        <link type="text/css" rel="stylesheet" href="cs/w3.css">
+        <link type="text/css" rel="stylesheet" href="cs/w3-colors-metro.css">
+        <link type="text/css" rel="stylesheet" href="cs/w3-colors-win8.css">
+        <link type="text/css" rel="stylesheet" href="cs/linestyle.css">
+    </head>
+    <body>
+        <div class="w3-container">
+            <nav class="card-header">
+               <div style="position: sticky;">
+                <h1 class="w3-jumbo w3-center w3-text-blue">Binary Computers Nigeria Limited.</h1>
+                <hr class="style-eight">
+                <h4 class="w3-card-4 w3-padding w3-center w3-text-green">Student Registration form.</h4>
+            </div> 
+            </nav>
+            
+            
+            <div class="w3-row">
+                <div class="w3-half w3-container w3-card-4">
+                    <p class="w3-block w3-win8-red w3-padding w3-bold w3-card-2">Please fill the fields below.</p>
+                    <form class="w3-animate-left">
+                        <label for="fname" class="w3-text-blue">First Name</label>
+                            <input type="text" name="fname" id="fname" class="form-control">
+                            <label for="lname" class="w3-text-blue">Last Name</label>
+                            <input type="text" name="fname" id="fname" class="form-control">
+                            <label for="phone" class="w3-text-blue">Phone</label>
+                            <input type="text" name="tel" id="phone" class="form-control">
+                            <label for="address" class="w3-text-blue">Address</label>
+                            <input type="text" name="address" id="address" class="form-control">
+                            <label for="date" class="w3-text-blue">Date</label>
+                            <input type="date" name="date" id="date" class="form-control">
+                            <label class="w3-text-blue">Gender: </label>
+                            <span><label for="male" class="w3-text-blue">Male </label><input type="radio" name="sex" id="male">
+                                <label for="female" class="w3-text-blue">Female </label><input type="radio" name="sex" id="female">
+                            </span>
+                            <br />
+                            <label for="email" class="w3-text-blue">Email</label>
+                            <input type="email" name="email" id="email" class="form-control">
+                            <label class="w3-text-blue">State of Origin</label>
+                            <select class="form-control">
+                                <option class="w3-disabled">Select state of origin</option>
+                                <option>Select state of origin</option>
+                                <option>Niger</option>
+                                <option>Warri</option>
+                            </select>
+                            <label for="lga" class="w3-text-blue">L.G.A</label>
+                            <select class="form-control">
+                                <option class="disabled">Select state of origin</option>
+                                <option>Select L.G.A</option>
+                                <option>Minna</option>
+                                <option>Bosso</option>
+                            </select>
+                            <label class="w3-text-blue" for="lan">Language</label>
+                            <input type="text" name="lan" id="fname" class="form-control">
+                            <label class="w3-text-blue">Student ID: <label class="w3-disabled w3-bold w3-text-red"> 23233</label></label>
+                            
+                            <div class="btn-group">
+                                <button class="btn  w3-ripple btn-primary">Update</button>
+                                <button class="btn  w3- btn-primary">Clear</button>
+                                <button class="btn  w3-ripple btn-primary">Delete</button>
+                            </div>
+                            <br/><br/>
+                    </form>
+                </div>
+                
+                <div class="w3-container w3-card-4 w3-half  w3-float-left w3-responsive">
+			<table class="w3-table w3-animate-right w3-hoverable">
+			<thead class="w3-border-bottom">
+				<th>First Name</th>
+				<th>last Name</th>
+				<th>Phone</th>
+				<th>Sex</th>
+				<th>Age</th>
+			</thead>
+				<tr>
+				<td>Abdulshakur</td>
+				<td>Wakeel</td>
+				<td>098383923</td>
+				<td>Male</td>
+				<td>20</td>
+				</tr>
+				<tr>
+				<td>Musa</td>
+				<td>Bilal</td>
+				<td>078773923</td> 
+				<td>Male</td>
+				<td>23</td>
+				</tr>
+			</table>
+                    </div>
+                </div>
+          
+              
+            <div class="w3-win8-amber w3-container">
+                <h5 class="w3-padding w3-card-4">Binary Computers Nigeria Limited look forward to see her student at the edge of labour market</h5>
+            </div>
+            
+        </div>
+        <script src="js/jquery.min.js"></script>
+        <script src="js/popper.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+    </body>
+</html>

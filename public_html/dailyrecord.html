@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Daily Record Form</title>
+        <link type="text/css" rel="stylesheet" href="cs/bootstrap.min.css">
+        <link type="text/css" rel="stylesheet" href="cs/w3.css">
+        <link type="text/css" rel="stylesheet" href="cs/w3-colors-metro.css">
+        <link type="text/css" rel="stylesheet" href="cs/w3-colors-win8.css">
+        <link type="text/css" rel="stylesheet" href="cs/linestyle.css">
+      
+    </head>
+    <body>
+         <span class="w3-left w3-text-blue w3-jumbo w3-bold w3-badge">BCN</span>
+        <div class="w3-center"><h2 class="w3-jumbo w3-bold w3-text-blue">BINARY COMPUTERS NIGERIA LIMITED <span>&#174;</span></h2></div>
+        <hr class="style-five">
+        <div class="w3-container w3-row passform  w3-round-large w3-white">
+        	<br>
+                <p class="w3-center w3-win8-amber w3-round-large">Daily Records Management Form <span>&#174;</span></p>
+            <hr class="style-seven">
+            <div class="w3-half w3-container w3-border-right">
+                <form class="w3-animate-zoom">
+                    <label class="w3-text-blue">Name</label>
+                    <input type="text" name="name" class="w3-input" placeholder="Enter first or last name">
+                    <label class="w3-text-blue">ID</label>
+                    <input type="text" name="id" class="w3-input" placeholder="Staff/Student Id">
+                    <label class="w3-text-blue">Amount</label>
+                    <input type="text" name="amount" class="w3-input" placeholder="Amount in naira">
+                    <label class="w3-text-blue">Current date</label>
+                    <input type="date" name="date" class="w3-input">
+                    <br/><br/>
+ 
+                </form>
+            </div>
+            <!--this code create the update and clearing of the fields-->
+            <div class="w3-quarter w3-container w3-animate-right w3-margin-top">
+                    <button class="btn btn-outline-success w3-ripple">Update</button>
+                    <button class="btn btn-outline-success w3-ripple">Clear</button>
+            </div>
+               
+            <!--this area display the text at the right most of the daily record--> 
+            <div class="w3-quarter w3-round-medium w3-container card-header w3-card-4">
+                <h2>Entering information.</h2>
+                <br /><br />
+                <p class="w3-win8-red w3-padding w3-round-large">Staff or Student present can fill this form 
+                    irrespective of there hierarchical position by entering the fields correctly and clicking on the update button.</p>
+            </div>
+         </div>
+        <script src="js/jquery.min.js"></script>
+        <script src="js/popper.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+    </body>
+</html>

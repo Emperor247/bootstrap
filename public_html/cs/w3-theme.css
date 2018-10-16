@@ -1,0 +1,544 @@
+/*them amber*/
+.w3-theme-amber-l5 {color:#000 !important; background-color:#fffbf0 !important}
+.w3-theme-amber-l4 {color:#000 !important; background-color:#fff3cd !important}
+.w3-theme-amber-l3 {color:#000 !important; background-color:#ffe69b !important}
+.w3-theme-amber-l2 {color:#000 !important; background-color:#ffda69 !important}
+.w3-theme-amber-l1 {color:#000 !important; background-color:#ffcd37 !important}
+.w3-theme-amber-d1 {color:#000 !important; background-color:#eab000 !important}
+.w3-theme-amber-d2 {color:#fff !important; background-color:#d09c00 !important}
+.w3-theme-amber-d3 {color:#fff !important; background-color:#b68900 !important}
+.w3-theme-amber-d4 {color:#fff !important; background-color:#9c7500 !important}
+.w3-theme-amber-d5 {color:#fff !important; background-color:#826200 !important}
+
+.w3-theme-amber-light {color:#000 !important; background-color:#fffbf0 !important}
+.w3-theme-amber-dark {color:#fff !important; background-color:#826200 !important}
+.w3-theme-amber-action {color:#fff !important; background-color:#826200 !important}
+
+.w3-theme-amber {color:#000 !important; background-color:#ffc107 !important}
+.w3-text-theme-amber {color:#ffc107 !important}
+.w3-border-theme-amber {border-color:#ffc107 !important}
+
+.w3-hover-theme-amber:hover {color:#000 !important; background-color:#ffc107 !important}
+.w3-hover-text-theme-amber:hover {color:#ffc107 !important}
+.w3-hover-border-theme-amber:hover {border-color:#ffc107 !important}
+
+
+/*theme -black*/
+.w3-theme-black-l5 {color:#000 !important; background-color:#f0f0f0 !important}
+.w3-theme-black-l4 {color:#000 !important; background-color:#cccccc !important}
+.w3-theme-black-l3 {color:#fff !important; background-color:#999999 !important}
+.w3-theme-black-l2 {color:#fff !important; background-color:#666666 !important}
+.w3-theme-black-l1 {color:#fff !important; background-color:#333333 !important}
+.w3-theme-black-d1 {color:#fff !important; background-color:#000000 !important}
+.w3-theme-black-d2 {color:#fff !important; background-color:#000000 !important}
+.w3-theme-black-d3 {color:#fff !important; background-color:#000000 !important}
+.w3-theme-black-d4 {color:#fff !important; background-color:#000000 !important}
+.w3-theme-black-d5 {color:#fff !important; background-color:#000000 !important}
+
+.w3-theme-light-black {color:#000 !important; background-color:#f0f0f0 !important}
+.w3-theme-dark-black {color:#fff !important; background-color:#000000 !important}
+.w3-theme-action-black {color:#fff !important; background-color:#000000 !important}
+
+.w3-theme-black {color:#fff !important; background-color:#000000 !important}
+.w3-text-theme-black {color:#000000 !important}
+.w3-border-theme-black {border-color:#000000 !important}
+
+.w3-hover-theme-black:hover {color:#fff !important; background-color:#000000 !important}
+.w3-hover-text-theme-black:hover {color:#000000 !important}
+.w3-hover-border-theme-black:hover {border-color:#000000 !important}
+
+/* theme -blue*/
+
+.w3-theme-blue-l5 {color:#000 !important; background-color:#f2f9fe !important}
+.w3-theme-blue-l4 {color:#000 !important; background-color:#d2eafd !important}
+.w3-theme-blue-l3 {color:#000 !important; background-color:#a6d4fa !important}
+.w3-theme-blue-l2 {color:#000 !important; background-color:#79bff8 !important}
+.w3-theme-blue-l1 {color:#fff !important; background-color:#4daaf6 !important}
+.w3-theme-blue-d1 {color:#fff !important; background-color:#0c87eb !important}
+.w3-theme-blue-d2 {color:#fff !important; background-color:#0b78d1 !important}
+.w3-theme-blue-d3 {color:#fff !important; background-color:#0a69b7 !important}
+.w3-theme-blue-d4 {color:#fff !important; background-color:#085a9d !important}
+.w3-theme-blue-d5 {color:#fff !important; background-color:#074b83 !important}
+
+.w3-theme-light-blue {color:#000 !important; background-color:#f2f9fe !important}
+.w3-theme-dark-blue {color:#fff !important; background-color:#074b83 !important}
+.w3-theme-action-blue {color:#fff !important; background-color:#074b83 !important}
+
+.w3-theme-blue {color:#fff !important; background-color:#2196f3 !important}
+.w3-text-theme-blue {color:#2196f3 !important}
+.w3-border-theme-blue {border-color:#2196f3 !important}
+
+.w3-hover-theme-blue:hover {color:#fff !important; background-color:#2196f3 !important}
+.w3-hover-text-theme-blue:hover {color:#2196f3 !important}
+.w3-hover-border-theme-blue:hover {border-color:#2196f3 !important}
+
+/*them blue -grey*/
+
+.w3-theme-grey-l5 {color:#000 !important; background-color:#f5f7f8 !important}
+.w3-theme-grey-l4 {color:#000 !important; background-color:#dfe5e8 !important}
+.w3-theme-grey-l3 {color:#000 !important; background-color:#becbd2 !important}
+.w3-theme-grey-l2 {color:#000 !important; background-color:#9eb1bb !important}
+.w3-theme-grey-l1 {color:#fff !important; background-color:#7d97a5 !important}
+.w3-theme-grey-d1 {color:#fff !important; background-color:#57707d !important}
+.w3-theme-grey-d2 {color:#fff !important; background-color:#4d636f !important}
+.w3-theme-grey-d3 {color:#fff !important; background-color:#435761 !important}
+.w3-theme-grey-d4 {color:#fff !important; background-color:#3a4b53 !important}
+.w3-theme-grey-d5 {color:#fff !important; background-color:#303e45 !important}
+
+.w3-theme-light-grey {color:#000 !important; background-color:#f5f7f8 !important}
+.w3-theme-dark-grey {color:#fff !important; background-color:#303e45 !important}
+.w3-theme-action-grey {color:#fff !important; background-color:#303e45 !important}
+
+.w3-theme-grey {color:#fff !important; background-color:#607d8b !important}
+.w3-text-theme-grey {color:#607d8b !important}
+.w3-border-theme-grey {border-color:#607d8b !important}
+
+.w3-hover-theme-grey:hover {color:#fff !important; background-color:#607d8b !important}
+.w3-hover-text-theme-grey:hover {color:#607d8b !important}
+.w3-hover-border-theme-grey:hover {border-color:#607d8b !important}
+
+
+/*theme -brown */
+
+.w3-theme-brown-l5 {color:#000 !important; background-color:#f8f4f3 !important}
+.w3-theme-brown-l4 {color:#000 !important; background-color:#e7dcd7 !important}
+.w3-theme-brown-l3 {color:#000 !important; background-color:#d0b8b0 !important}
+.w3-theme-brown-l2 {color:#fff !important; background-color:#b89588 !important}
+.w3-theme-brown-l1 {color:#fff !important; background-color:#a07261 !important}
+.w3-theme-brown-d1 {color:#fff !important; background-color:#6d4d41 !important}
+.w3-theme-brown-d2 {color:#fff !important; background-color:#61443a !important}
+.w3-theme-brown-d3 {color:#fff !important; background-color:#553c33 !important}
+.w3-theme-brown-d4 {color:#fff !important; background-color:#49332c !important}
+.w3-theme-brown-d5 {color:#fff !important; background-color:#3d2b24 !important}
+
+.w3-theme-light-brown {color:#000 !important; background-color:#f8f4f3 !important}
+.w3-theme-dark-brown {color:#fff !important; background-color:#3d2b24 !important}
+.w3-theme-action-brown {color:#fff !important; background-color:#3d2b24 !important}
+
+.w3-theme-brown {color:#fff !important; background-color:#795548 !important}
+.w3-text-theme-brown {color:#795548 !important}
+.w3-border-theme-brown {border-color:#795548 !important}
+
+.w3-hover-theme-brown:hover {color:#fff !important; background-color:#795548 !important}
+.w3-hover-text-theme-brown:hover {color:#795548 !important}
+.w3-hover-border-theme-brown:hover {border-color:#795548 !important}
+
+/*them -cyan */
+
+.w3-theme-cyan-l5 {color:#000 !important; background-color:#edfdff !important}
+.w3-theme-cyan-l4 {color:#000 !important; background-color:#c4f8ff !important}
+.w3-theme-cyan-l3 {color:#000 !important; background-color:#89f1ff !important}
+.w3-theme-cyan-l2 {color:#000 !important; background-color:#4eeaff !important}
+.w3-theme-cyan-l1 {color:#000 !important; background-color:#12e3ff !important}
+.w3-theme-cyan-d1 {color:#fff !important; background-color:#00aac1 !important}
+.w3-theme-cyan-d2 {color:#fff !important; background-color:#0097ab !important}
+.w3-theme-cyan-d3 {color:#fff !important; background-color:#008496 !important}
+.w3-theme-cyan-d4 {color:#fff !important; background-color:#007281 !important}
+.w3-theme-cyan-d5 {color:#fff !important; background-color:#005f6b !important}
+
+.w3-theme-light-cyan {color:#000 !important; background-color:#edfdff !important}
+.w3-theme-dark-cyan {color:#fff !important; background-color:#005f6b !important}
+.w3-theme-action-cyan {color:#fff !important; background-color:#005f6b !important}
+
+.w3-theme-cyan {color:#fff !important; background-color:#00bcd4 !important}
+.w3-text-theme-cyan {color:#00bcd4 !important}
+.w3-border-theme-cyan {border-color:#00bcd4 !important}
+
+.w3-hover-theme-cyan:hover {color:#fff !important; background-color:#00bcd4 !important}
+.w3-hover-text-theme-cyan:hover {color:#00bcd4 !important}
+.w3-hover-border-theme-cyan:hover {border-color:#00bcd4 !important}
+
+/*theme -dark-grey*/
+
+.w3-theme-dark-grey-l5 {color:#000 !important; background-color:#f6f6f6 !important}
+.w3-theme-dark-grey-l4 {color:#000 !important; background-color:#dfdfdf !important}
+.w3-theme-dark-grey-l3 {color:#000 !important; background-color:#c0c0c0 !important}
+.w3-theme-dark-grey-l2 {color:#fff !important; background-color:#a0a0a0 !important}
+.w3-theme-dark-grey-l1 {color:#fff !important; background-color:#818181 !important}
+.w3-theme-dark-grey-d1 {color:#fff !important; background-color:#575757 !important}
+.w3-theme-dark-grey-d2 {color:#fff !important; background-color:#4e4e4e !important}
+.w3-theme-dark-grey-d3 {color:#fff !important; background-color:#444444 !important}
+.w3-theme-dark-grey-d4 {color:#fff !important; background-color:#3a3a3a !important}
+.w3-theme-dark-grey-d5 {color:#fff !important; background-color:#303030 !important}
+
+.w3-theme-light-dark-grey {color:#000 !important; background-color:#f6f6f6 !important}
+.w3-theme-dark-dark-grey {color:#fff !important; background-color:#303030 !important}
+.w3-theme-action-dark-grey {color:#fff !important; background-color:#303030 !important}
+
+.w3-theme-dark-grey {color:#fff !important; background-color:#616161 !important}
+.w3-text-theme-dark-grey {color:#616161 !important}
+.w3-border-theme-dark-grey {border-color:#616161 !important}
+
+.w3-hover-theme-dark-grey:hover {color:#fff !important; background-color:#616161 !important}
+.w3-hover-text-theme-dark-grey:hover {color:#616161 !important}
+.w3-hover-border-theme-dark-grey:hover {border-color:#616161 !important}
+
+/*theme -deep-orange*/
+
+.w3-theme-deep-orange-l5 {color:#000 !important; background-color:#fff5f2 !important}
+.w3-theme-deep-orange-l4 {color:#000 !important; background-color:#ffddd3 !important}
+.w3-theme-deep-orange-l3 {color:#000 !important; background-color:#ffbca7 !important}
+.w3-theme-deep-orange-l2 {color:#000 !important; background-color:#ff9a7b !important}
+.w3-theme-deep-orange-l1 {color:#fff !important; background-color:#ff7850 !important}
+.w3-theme-deep-orange-d1 {color:#fff !important; background-color:#ff4107 !important}
+.w3-theme-deep-orange-d2 {color:#fff !important; background-color:#e93600 !important}
+.w3-theme-deep-orange-d3 {color:#fff !important; background-color:#cb2f00 !important}
+.w3-theme-deep-orange-d4 {color:#fff !important; background-color:#ae2900 !important}
+.w3-theme-deep-orange-d5 {color:#fff !important; background-color:#912200 !important}
+
+.w3-theme-light-deep-orange {color:#000 !important; background-color:#fff5f2 !important}
+.w3-theme-dark-deep-orange {color:#fff !important; background-color:#912200 !important}
+.w3-theme-action-deep-orange {color:#fff !important; background-color:#912200 !important}
+
+.w3-theme-deep-orange {color:#fff !important; background-color:#ff5722 !important}
+.w3-text-theme-deep-orange {color:#ff5722 !important}
+.w3-border-theme-deep-orange {border-color:#ff5722 !important}
+
+.w3-hover-theme-deep-orange:hover {color:#fff !important; background-color:#ff5722 !important}
+.w3-hover-text-theme-deep-orange:hover {color:#ff5722 !important}
+.w3-hover-border-theme-deep-orange:hover {border-color:#ff5722 !important}
+
+/*them -deep-purple*/
+
+.w3-theme-deep-purple-l5 {color:#000 !important; background-color:#f6f3fb !important}
+.w3-theme-deep-purple-l4 {color:#000 !important; background-color:#e0d6f2 !important}
+.w3-theme-deep-purple-l3 {color:#000 !important; background-color:#c1ade5 !important}
+.w3-theme-deep-purple-l2 {color:#fff !important; background-color:#a384d8 !important}
+.w3-theme-deep-purple-l1 {color:#fff !important; background-color:#845bcb !important}
+.w3-theme-deep-purple-d1 {color:#fff !important; background-color:#5d34a4 !important}
+.w3-theme-deep-purple-d2 {color:#fff !important; background-color:#532e92 !important}
+.w3-theme-deep-purple-d3 {color:#fff !important; background-color:#482880 !important}
+.w3-theme-deep-purple-d4 {color:#fff !important; background-color:#3e236d !important}
+.w3-theme-deep-purple-d5 {color:#fff !important; background-color:#341d5b !important}
+
+.w3-theme-light-deep-purple {color:#000 !important; background-color:#f6f3fb !important}
+.w3-theme-dark-deep-purple {color:#fff !important; background-color:#341d5b !important}
+.w3-theme-action-deep-purple {color:#fff !important; background-color:#341d5b !important}
+
+.w3-theme-deep-purple {color:#fff !important; background-color:#673ab7 !important}
+.w3-text-theme-deep-purple {color:#673ab7 !important}
+.w3-border-theme-deep-purple {border-color:#673ab7 !important}
+
+.w3-hover-theme-deep-purple:hover {color:#fff !important; background-color:#673ab7 !important}
+.w3-hover-text-theme-deep-purple:hover {color:#673ab7 !important}
+.w3-hover-border-theme-deep-purple:hover {border-color:#673ab7 !important}
+
+/*them -green*/
+
+.w3-theme-green-l5 {color:#000 !important; background-color:#f4faf4 !important}
+.w3-theme-green-l4 {color:#000 !important; background-color:#dbefdc !important}
+.w3-theme-green-l3 {color:#000 !important; background-color:#b7dfb8 !important}
+.w3-theme-green-l2 {color:#000 !important; background-color:#93cf95 !important}
+.w3-theme-green-l1 {color:#fff !important; background-color:#6ec071 !important}
+.w3-theme-green-d1 {color:#fff !important; background-color:#459c48 !important}
+.w3-theme-green-d2 {color:#fff !important; background-color:#3d8b40 !important}
+.w3-theme-green-d3 {color:#fff !important; background-color:#357a38 !important}
+.w3-theme-green-d4 {color:#fff !important; background-color:#2e6830 !important}
+.w3-theme-green-d5 {color:#fff !important; background-color:#265728 !important}
+
+.w3-theme-light-green {color:#000 !important; background-color:#f4faf4 !important}
+.w3-theme-dark-green {color:#fff !important; background-color:#265728 !important}
+.w3-theme-action-green {color:#fff !important; background-color:#265728 !important}
+
+.w3-theme-green {color:#fff !important; background-color:#4caf50 !important}
+.w3-text-theme-green {color:#4caf50 !important}
+.w3-border-theme-green {border-color:#4caf50 !important}
+
+.w3-hover-theme-green:hover {color:#fff !important; background-color:#4caf50 !important}
+.w3-hover-text-theme-green:hover {color:#4caf50 !important}
+.w3-hover-border-theme-green:hover {border-color:#4caf50 !important}
+
+/*theme -grey*/
+
+.w3-theme-grey-l5 {color:#000 !important; background-color:#f9f9f9 !important}
+.w3-theme-grey-l4 {color:#000 !important; background-color:#ececec !important}
+.w3-theme-grey-l3 {color:#000 !important; background-color:#d8d8d8 !important}
+.w3-theme-grey-l2 {color:#000 !important; background-color:#c5c5c5 !important}
+.w3-theme-grey-l1 {color:#000 !important; background-color:#b1b1b1 !important}
+.w3-theme-grey-d1 {color:#fff !important; background-color:#8e8e8e !important}
+.w3-theme-grey-d2 {color:#fff !important; background-color:#7e7e7e !important}
+.w3-theme-grey-d3 {color:#fff !important; background-color:#6f6f6f !important}
+.w3-theme-grey-d4 {color:#fff !important; background-color:#5f5f5f !important}
+.w3-theme-grey-d5 {color:#fff !important; background-color:#4f4f4f !important}
+
+.w3-theme-light-grey {color:#000 !important; background-color:#f9f9f9 !important}
+.w3-theme-dark-grey {color:#fff !important; background-color:#4f4f4f !important}
+.w3-theme-action-grey {color:#fff !important; background-color:#4f4f4f !important}
+
+.w3-theme-grey {color:#fff !important; background-color:#9e9e9e !important}
+.w3-text-theme-grey {color:#9e9e9e !important}
+.w3-border-theme-grey {border-color:#9e9e9e !important}
+
+.w3-hover-theme-grey:hover {color:#fff !important; background-color:#9e9e9e !important}
+.w3-hover-text-theme-grey:hover {color:#9e9e9e !important}
+.w3-hover-border-theme-grey:hover {border-color:#9e9e9e !important}
+
+/*theme -indigo*/
+
+.w3-theme-indigo-l5 {color:#000 !important; background-color:#f3f4fb !important}
+.w3-theme-indigo-l4 {color:#000 !important; background-color:#d8dcf1 !important}
+.w3-theme-indigo-l3 {color:#000 !important; background-color:#b1b8e3 !important}
+.w3-theme-indigo-l2 {color:#fff !important; background-color:#8995d6 !important}
+.w3-theme-indigo-l1 {color:#fff !important; background-color:#6271c8 !important}
+.w3-theme-indigo-d1 {color:#fff !important; background-color:#3949a3 !important}
+.w3-theme-indigo-d2 {color:#fff !important; background-color:#334191 !important}
+.w3-theme-indigo-d3 {color:#fff !important; background-color:#2d397f !important}
+.w3-theme-indigo-d4 {color:#fff !important; background-color:#26316d !important}
+.w3-theme-indigo-d5 {color:#fff !important; background-color:#20295b !important}
+
+.w3-theme-light-indigo {color:#000 !important; background-color:#f3f4fb !important}
+.w3-theme-dark-indigo {color:#fff !important; background-color:#20295b !important}
+.w3-theme-action-indigo {color:#fff !important; background-color:#20295b !important}
+
+.w3-theme-indigo {color:#fff !important; background-color:#3f51b5 !important}
+.w3-text-theme-indigo {color:#3f51b5 !important}
+.w3-border-theme-indigo {border-color:#3f51b5 !important}
+
+.w3-hover-theme-indigo:hover {color:#fff !important; background-color:#3f51b5 !important}
+.w3-hover-text-theme-indigo:hover {color:#3f51b5 !important}
+.w3-hover-border-theme-indigo:hover {border-color:#3f51b5 !important}
+
+/* theme -khaki*/
+
+.w3-theme-khaki-l5 {color:#000 !important; background-color:#fefef8 !important}
+.w3-theme-khaki-l4 {color:#000 !important; background-color:#fcfae8 !important}
+.w3-theme-khaki-l3 {color:#000 !important; background-color:#f9f5d2 !important}
+.w3-theme-khaki-l2 {color:#000 !important; background-color:#f6f0bb !important}
+.w3-theme-khaki-l1 {color:#000 !important; background-color:#f3eba5 !important}
+.w3-theme-khaki-d1 {color:#000 !important; background-color:#ecdf6c !important}
+.w3-theme-khaki-d2 {color:#000 !important; background-color:#e8d84a !important}
+.w3-theme-khaki-d3 {color:#000 !important; background-color:#e3d029 !important}
+.w3-theme-khaki-d4 {color:#000 !important; background-color:#cbb91a !important}
+.w3-theme-khaki-d5 {color:#fff !important; background-color:#a99b16 !important}
+
+.w3-theme-khaki-light {color:#000 !important; background-color:#fefef8 !important}
+.w3-theme-khaki-dark {color:#fff !important; background-color:#a99b16 !important}
+.w3-theme-khaki-khaki-action {color:#fff !important; background-color:#a99b16 !important}
+
+.w3-theme-khaki {color:#000 !important; background-color:#f0e68c !important}
+.w3-text-theme-khaki-khaki {color:#f0e68c !important}
+.w3-border-theme-khaki {border-color:#f0e68c !important}
+
+.w3-hover-khaki-theme:hover {color:#000 !important; background-color:#f0e68c !important}
+.w3-hover-text-theme-khaki:hover {color:#f0e68c !important}
+.w3-hover-border-theme-khaki:hover {border-color:#f0e68c !important}
+
+/*them -light-blue*/
+.w3-theme-light-blue-l5 {color:#000 !important; background-color:#f8fcfe !important}
+.w3-theme-light-blue-l4 {color:#000 !important; background-color:#e7f5fb !important}
+.w3-theme-light-blue-l3 {color:#000 !important; background-color:#d0ecf7 !important}
+.w3-theme-light-blue-l2 {color:#000 !important; background-color:#b8e2f3 !important}
+.w3-theme-light-blue-l1 {color:#000 !important; background-color:#a1d9ef !important}
+.w3-theme-light-blue-d1 {color:#000 !important; background-color:#69c2e6 !important}
+.w3-theme-light-blue-d2 {color:#fff !important; background-color:#4ab6e0 !important}
+.w3-theme-light-blue-d3 {color:#fff !important; background-color:#2aa9db !important}
+.w3-theme-light-blue-d4 {color:#fff !important; background-color:#2092bf !important}
+.w3-theme-light-blue-d5 {color:#fff !important; background-color:#1b7a9f !important}
+
+.w3-theme-light-blue {color:#000 !important; background-color:#f8fcfe !important}
+.w3-theme-lightblue-dark {color:#fff !important; background-color:#1b7a9f !important}
+.w3-theme-action-lightblue {color:#fff !important; background-color:#1b7a9f !important}
+
+.w3-theme-lightblue {color:#000 !important; background-color:#87ceeb !important}
+.w3-text-theme-lightblue {color:#87ceeb !important}
+.w3-border-theme-lightblue {border-color:#87ceeb !important}
+
+.w3-hover-theme-lightblue:hover {color:#000 !important; background-color:#87ceeb !important}
+.w3-hover-text-theme-lightblue:hover {color:#87ceeb !important}
+.w3-hover-border-theme-lightblue:hover {border-color:#87ceeb !important}
+
+/*theme light-green*/
+
+.w3-theme-light-green-l5 {color:#000 !important; background-color:#f8fbf4 !important}
+.w3-theme-light-green-l4 {color:#000 !important; background-color:#e8f3db !important}
+.w3-theme-light-green-l3 {color:#000 !important; background-color:#d1e7b7 !important}
+.w3-theme-light-green-l2 {color:#000 !important; background-color:#b9db93 !important}
+.w3-theme-light-green-l1 {color:#000 !important; background-color:#a2cf6f !important}
+.w3-theme-light-green-d1 {color:#fff !important; background-color:#7eb63d !important}
+.w3-theme-light-green-d2 {color:#fff !important; background-color:#70a236 !important}
+.w3-theme-light-green-d3 {color:#fff !important; background-color:#628e2f !important}
+.w3-theme-light-green-d4 {color:#fff !important; background-color:#547a29 !important}
+.w3-theme-light-green-d5 {color:#fff !important; background-color:#466522 !important}
+
+.w3-theme-light-lightgreen {color:#000 !important; background-color:#f8fbf4 !important}
+.w3-theme-dark-lightgreen {color:#fff !important; background-color:#466522 !important}
+.w3-theme-action-lightgreen {color:#fff !important; background-color:#466522 !important}
+
+.w3-theme-lightgreen {color:#fff !important; background-color:#8bc34a !important}
+.w3-text-theme-lightgreen {color:#8bc34a !important}
+.w3-border-theme-lightgreen {border-color:#8bc34a !important}
+
+.w3-hover-theme-lightgreen:hover {color:#fff !important; background-color:#8bc34a !important}
+.w3-hover-text-theme-lightgreen:hover {color:#8bc34a !important}
+.w3-hover-border-theme-lightgreen:hover {border-color:#8bc34a !important}
+
+/*them -lime*/
+
+.w3-theme-lime-l5 {color:#000 !important; background-color:#fcfdf3 !important}
+.w3-theme-lime-l4 {color:#000 !important; background-color:#f5f8d7 !important}
+.w3-theme-lime-l3 {color:#000 !important; background-color:#eaf1af !important}
+.w3-theme-lime-l2 {color:#000 !important; background-color:#e0ea87 !important}
+.w3-theme-lime-l1 {color:#000 !important; background-color:#d6e35f !important}
+.w3-theme-lime-d1 {color:#000 !important; background-color:#c1d325 !important}
+.w3-theme-lime-d2 {color:#fff !important; background-color:#acbb21 !important}
+.w3-theme-lime-d3 {color:#fff !important; background-color:#96a41d !important}
+.w3-theme-lime-d4 {color:#fff !important; background-color:#818c19 !important}
+.w3-theme-lime-d5 {color:#fff !important; background-color:#6b7515 !important}
+
+.w3-theme-lime-light {color:#000 !important; background-color:#fcfdf3 !important}
+.w3-theme-lime-dark {color:#fff !important; background-color:#6b7515 !important}
+.w3-theme-lime-action {color:#fff !important; background-color:#6b7515 !important}
+
+.w3-theme-lime {color:#000 !important; background-color:#cddc39 !important}
+.w3-text-theme-lime {color:#cddc39 !important}
+.w3-border-theme-lime {border-color:#cddc39 !important}
+
+.w3-hover-theme-lime:hover {color:#000 !important; background-color:#cddc39 !important}
+.w3-hover-text-theme-lime:hover {color:#cddc39 !important}
+.w3-hover-border-theme-lime:hover {border-color:#cddc39 !important}
+
+/*them -orange*/
+.w3-theme-orange-l5 {color:#000 !important; background-color:#fff9f0 !important}
+.w3-theme-orange-l4 {color:#000 !important; background-color:#ffebcc !important}
+.w3-theme-orange-l3 {color:#000 !important; background-color:#ffd699 !important}
+.w3-theme-orange-l2 {color:#000 !important; background-color:#ffc266 !important}
+.w3-theme-orange-l1 {color:#000 !important; background-color:#ffad33 !important}
+.w3-theme-orange-d1 {color:#fff !important; background-color:#e68a00 !important}
+.w3-theme-orange-d2 {color:#fff !important; background-color:#cc7a00 !important}
+.w3-theme-orange-d3 {color:#fff !important; background-color:#b36b00 !important}
+.w3-theme-orange-d4 {color:#fff !important; background-color:#995c00 !important}
+.w3-theme-orange-d5 {color:#fff !important; background-color:#804d00 !important}
+
+.w3-theme-light-orange {color:#000 !important; background-color:#fff9f0 !important}
+.w3-theme-dark-orange {color:#fff !important; background-color:#804d00 !important}
+.w3-theme-action-orange {color:#fff !important; background-color:#804d00 !important}
+
+.w3-theme-orange {color:#000 !important; background-color:#ff9800 !important}
+.w3-text-theme-orange {color:#ff9800 !important}
+.w3-border-theme-orange {border-color:#ff9800 !important}
+
+.w3-hover-theme-orange:hover {color:#000 !important; background-color:#ff9800 !important}
+.w3-hover-text-theme-orange:hover {color:#ff9800 !important}
+.w3-hover-border-theme-orange:hover {border-color:#ff9800 !important}
+
+/*theme -pink*/
+
+.w3-theme-pink-l5 {color:#000 !important; background-color:#fef2f6 !important}
+.w3-theme-pink-l4 {color:#000 !important; background-color:#fbd2e0 !important}
+.w3-theme-pink-l3 {color:#000 !important; background-color:#f6a6c1 !important}
+.w3-theme-pink-l2 {color:#fff !important; background-color:#f279a1 !important}
+.w3-theme-pink-l1 {color:#fff !important; background-color:#ed4d82 !important}
+.w3-theme-pink-d1 {color:#fff !important; background-color:#d91557 !important}
+.w3-theme-pink-d2 {color:#fff !important; background-color:#c1134d !important}
+.w3-theme-pink-d3 {color:#fff !important; background-color:#a91143 !important}
+.w3-theme-pink-d4 {color:#fff !important; background-color:#910e3a !important}
+.w3-theme-pink-d5 {color:#fff !important; background-color:#790c30 !important}
+
+.w3-theme-light-pink {color:#000 !important; background-color:#fef2f6 !important}
+.w3-theme-dark-pink {color:#fff !important; background-color:#790c30 !important}
+.w3-theme-action-pink {color:#fff !important; background-color:#790c30 !important}
+
+.w3-theme-pink {color:#fff !important; background-color:#e91e63 !important}
+.w3-text-theme-pink {color:#e91e63 !important}
+.w3-border-theme-pink {border-color:#e91e63 !important}
+
+.w3-hover-theme-pink:hover {color:#fff !important; background-color:#e91e63 !important}
+.w3-hover-text-theme-pink:hover {color:#e91e63 !important}
+.w3-hover-border-theme-pink:hover {border-color:#e91e63 !important}
+
+/*theme -purple*/
+
+.w3-theme-purple-l5 {color:#000 !important; background-color:#faf0fc !important}
+.w3-theme-purple-l4 {color:#000 !important; background-color:#efcef4 !important}
+.w3-theme-purple-l3 {color:#000 !important; background-color:#de9eea !important}
+.w3-theme-purple-l2 {color:#fff !important; background-color:#ce6ddf !important}
+.w3-theme-purple-l1 {color:#fff !important; background-color:#be3dd4 !important}
+.w3-theme-purple-d1 {color:#fff !important; background-color:#8c239e !important}
+.w3-theme-purple-d2 {color:#fff !important; background-color:#7c1f8d !important}
+.w3-theme-purple-d3 {color:#fff !important; background-color:#6d1b7b !important}
+.w3-theme-purple-d4 {color:#fff !important; background-color:#5d1769 !important}
+.w3-theme-purple-d5 {color:#fff !important; background-color:#4e1358 !important}
+
+.w3-theme-light-purple {color:#000 !important; background-color:#faf0fc !important}
+.w3-theme-dark-purple {color:#fff !important; background-color:#4e1358 !important}
+.w3-theme-action-purple {color:#fff !important; background-color:#4e1358 !important}
+
+.w3-theme-purple {color:#fff !important; background-color:#9c27b0 !important}
+.w3-text-theme-purple {color:#9c27b0 !important}
+.w3-border-theme-purple {border-color:#9c27b0 !important}
+
+.w3-hover-theme-purple:hover {color:#fff !important; background-color:#9c27b0 !important}
+.w3-hover-text-theme-purple:hover {color:#9c27b0 !important}
+.w3-hover-border-theme-purple:hover {border-color:#9c27b0 !important}
+
+/*them -red*/
+
+.w3-theme-red-l5 {color:#000 !important; background-color:#fef4f3 !important}
+.w3-theme-red-l4 {color:#000 !important; background-color:#fdd9d6 !important}
+.w3-theme-red-l3 {color:#000 !important; background-color:#fbb3ae !important}
+.w3-theme-red-l2 {color:#000 !important; background-color:#f98d85 !important}
+.w3-theme-red-l1 {color:#fff !important; background-color:#f6665c !important}
+.w3-theme-red-d1 {color:#fff !important; background-color:#f32617 !important}
+.w3-theme-red-d2 {color:#fff !important; background-color:#e11a0c !important}
+.w3-theme-red-d3 {color:#fff !important; background-color:#c5170a !important}
+.w3-theme-red-d4 {color:#fff !important; background-color:#a91409 !important}
+.w3-theme-red-d5 {color:#fff !important; background-color:#8d1007 !important}
+
+.w3-theme-light-red {color:#000 !important; background-color:#fef4f3 !important}
+.w3-theme-dark-red {color:#fff !important; background-color:#8d1007 !important}
+.w3-theme-action-red {color:#fff !important; background-color:#8d1007 !important}
+
+.w3-theme-red {color:#fff !important; background-color:#f44336 !important}
+.w3-text-theme-red {color:#f44336 !important}
+.w3-border-theme-red {border-color:#f44336 !important}
+
+.w3-hover-theme-red:hover {color:#fff !important; background-color:#f44336 !important}
+.w3-hover-text-theme-red:hover {color:#f44336 !important}
+.w3-hover-border-theme-red:hover {border-color:#f44336 !important}
+
+/*theme -teal*/
+
+.w3-theme-teal-l5 {color:#000 !important; background-color:#e9fffd !important}
+.w3-theme-teal-l4 {color:#000 !important; background-color:#b7fff8 !important}
+.w3-theme-teal-l3 {color:#000 !important; background-color:#6efff1 !important}
+.w3-theme-teal-l2 {color:#000 !important; background-color:#26ffe9 !important}
+.w3-theme-teal-l1 {color:#fff !important; background-color:#00dcc6 !important}
+.w3-theme-teal-d1 {color:#fff !important; background-color:#008578 !important}
+.w3-theme-teal-d2 {color:#fff !important; background-color:#00766a !important}
+.w3-theme-teal-d3 {color:#fff !important; background-color:#00685d !important}
+.w3-theme-teal-d4 {color:#fff !important; background-color:#005950 !important}
+.w3-theme-teal-d5 {color:#fff !important; background-color:#004a43 !important}
+
+.w3-theme-light-teal {color:#000 !important; background-color:#e9fffd !important}
+.w3-theme-dark-teal {color:#fff !important; background-color:#004a43 !important}
+.w3-theme-action-teal {color:#fff !important; background-color:#004a43 !important}
+
+.w3-theme-teal {color:#fff !important; background-color:#009688 !important}
+.w3-text-theme-teal {color:#009688 !important}
+.w3-border-theme-teal {border-color:#009688 !important}
+
+.w3-hover-theme-teal:hover {color:#fff !important; background-color:#009688 !important}
+.w3-hover-text-theme-teal:hover {color:#009688 !important}
+.w3-hover-border-theme-teal:hover {border-color:#009688 !important}
+
+/*theme -yellow*/
+
+.w3-theme-yellow-l5 {color:#000 !important; background-color:#fffef3 !important}
+.w3-theme-yellow-l4 {color:#000 !important; background-color:#fffbd8 !important}
+.w3-theme-yellow-l3 {color:#000 !important; background-color:#fff7b1 !important}
+.w3-theme-yellow-l2 {color:#000 !important; background-color:#fff38b !important}
+.w3-theme-yellow-l1 {color:#000 !important; background-color:#ffef64 !important}
+.w3-theme-yellow-d1 {color:#000 !important; background-color:#ffe81e !important}
+.w3-theme-yellow-d2 {color:#000 !important; background-color:#fde400 !important}
+.w3-theme-yellow-d3 {color:#000 !important; background-color:#ddc700 !important}
+.w3-theme-yellow-d4 {color:#fff !important; background-color:#beab00 !important}
+.w3-theme-yellow-d5 {color:#fff !important; background-color:#9e8e00 !important}
+.w3-theme-light-yellow {color:#000 !important; background-color:#fffef3 !important}
+.w3-theme-dark-yellow {color:#fff !important; background-color:#9e8e00 !important}
+.w3-theme-action-yellow {color:#fff !important; background-color:#9e8e00 !important}
+.w3-theme-yellow {color:#000 !important; background-color:#ffeb3b !important}
+.w3-text-theme-yellow {color:#ffeb3b !important}
+.w3-border-theme-yellow {border-color:#ffeb3b !important}
+.w3-hover-theme-yellow:hover {color:#000 !important; background-color:#ffeb3b !important}
+.w3-hover-text-theme-yellow:hover {color:#ffeb3b !important}
+.w3-hover-border-theme-yellow:hover {border-color:#ffeb3b !important}
